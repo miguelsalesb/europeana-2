@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://miguelsalesb.github.io/europeana-2/manifests/manifest.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://miguelsalesb.github.io/europeana-2/manifests/manifesto2.json",
+    "label" : "[Click to edit label]"
   } ]
 }
