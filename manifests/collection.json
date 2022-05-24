@@ -1,0 +1,13 @@
+{
+  "id" : "https://miguelsalesb.github.io/europeana-2/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in miguelsalesb/europeana-2 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://miguelsalesb.github.io/europeana-2/manifests/manifest.json",
+    "label" : "[Click to edit label]"
+  } ]
+}
