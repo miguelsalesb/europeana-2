@@ -7,10 +7,6 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "@type" : "sc:Manifest",
-    "@id" : "https://miguelsalesb.github.io/europeana-2/manifests/manifest.json",
-    "label" : "[Click to edit label]"
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://miguelsalesb.github.io/europeana-2/manifests/manifesto2.json",
     "label" : "[Click to edit label]"
   } ]
