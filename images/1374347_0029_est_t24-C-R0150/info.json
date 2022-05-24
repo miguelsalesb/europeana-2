@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 89,
+    "height" : 60
+  }, {
+    "width" : 178,
+    "height" : 119
+  }, {
+    "width" : 355,
+    "height" : 237
+  }, {
+    "width" : 710,
+    "height" : 474
+  }, {
+    "width" : 1419,
+    "height" : 948
+  }, {
+    "width" : 2838,
+    "height" : 1895
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2838,
+  "@id" : "https://miguelsalesb.github.io/europeana-2/images/1374347_0029_est_t24-C-R0150",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1895
+}
