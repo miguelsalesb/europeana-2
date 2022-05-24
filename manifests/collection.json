@@ -5,5 +5,9 @@
   },
   "type" : "Collection",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ ]
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://miguelsalesb.github.io/europeana-2/manifests/manifesto3.json",
+    "label" : "Sintra from the Lisbon road"
+  } ]
 }
